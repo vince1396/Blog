@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f089791b-1fe5-4017-a143-f4a2522de0fd" name="Default" comment="">
+    <list default="true" id="f089791b-1fe5-4017-a143-f4a2522de0fd" name="Default" comment="modif phrase d'intro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_automain.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_forum_main.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_intranetmain.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_parkingmain.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_socialmain.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/index.html" afterPath="$PROJECT_DIR$/../Portfolio/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +14,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <marker date="1535650143531" expanded="true" signature="1525:1644" ph="SELECT * FRO... article" />
+                <marker date="1535650143531" expanded="true" signature="1739:1820" ph="SELECT * FRO... article" />
+                <marker date="1535650143531" expanded="true" signature="1923:2004" ph="SELECT * FRO... article" />
+                <marker date="1535650143531" expanded="true" signature="2135:2428" ph="..." />
+                <marker date="1535650143531" expanded="false" signature="2387:2394" ph="»" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Portfolio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2352">
-              <caret line="147" column="14" lean-forward="true" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
+            <state relative-caret-position="751">
+              <caret line="114" column="40" lean-forward="false" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -59,6 +69,7 @@
         <option value="$PROJECT_DIR$/../RSS/model/co_bdd.php" />
         <option value="$PROJECT_DIR$/../RSS/template.php" />
         <option value="$PROJECT_DIR$/../Portfolio/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/../Portfolio/index.html" />
       </list>
     </option>
@@ -100,18 +111,11 @@
           <expand>
             <path>
               <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Blog" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -156,7 +160,7 @@
       <workItem from="1529347220999" duration="145000" />
       <workItem from="1535490884295" duration="574000" />
       <workItem from="1535491702150" duration="1208000" />
-      <workItem from="1535640800922" duration="8639000" />
+      <workItem from="1535640800922" duration="10220000" />
     </task>
     <task id="LOCAL-00001" summary="Modif Projets">
       <created>1535641679588</created>
@@ -221,11 +225,25 @@
       <option name="project" value="LOCAL" />
       <updated>1535647005049</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Modifications Projets et présentation">
+      <created>1535649528662</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1535649528662</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modif phrase d'intro">
+      <created>1535650157148</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1535650157148</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17116000" />
+    <option name="totallyTimeSpent" value="18697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -279,7 +297,9 @@
     <MESSAGE value="essai mise en page" />
     <MESSAGE value="test mise en page" />
     <MESSAGE value="prepare reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="prepare reset" />
+    <MESSAGE value="Modifications Projets et présentation" />
+    <MESSAGE value="modif phrase d'intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif phrase d'intro" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -326,13 +346,6 @@
     <entry file="file://$PROJECT_DIR$/../M2L/controller/espaceGestion.php" />
     <entry file="file://$PROJECT_DIR$/../M2L/controller/modifMembres.php" />
     <entry file="file://$PROJECT_DIR$/../M2L/core/functions.php" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/bdd.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -387,10 +400,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <marker date="1535650143531" expanded="true" signature="1525:1644" ph="SELECT * FRO... article" />
+            <marker date="1535650143531" expanded="true" signature="1739:1820" ph="SELECT * FRO... article" />
+            <marker date="1535650143531" expanded="true" signature="1923:2004" ph="SELECT * FRO... article" />
+            <marker date="1535650143531" expanded="true" signature="2135:2428" ph="..." />
+            <marker date="1535650143531" expanded="false" signature="2387:2394" ph="»" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Portfolio/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
-          <caret line="147" column="14" lean-forward="true" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
+        <state relative-caret-position="751">
+          <caret line="114" column="40" lean-forward="false" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
           <folding />
         </state>
       </provider>
