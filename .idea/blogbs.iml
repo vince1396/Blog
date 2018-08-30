@@ -5,5 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="M2L" />
+    <orderEntry type="module" module-name="Form-Entreprise" />
+    <orderEntry type="module" module-name="flux_RSS" />
+    <orderEntry type="module" module-name="Portfolio" />
   </component>
 </module>
