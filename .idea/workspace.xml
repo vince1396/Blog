@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f089791b-1fe5-4017-a143-f4a2522de0fd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_automain.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_forum_main.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_intranetmain.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_parkingmain.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/rsz_socialmain.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/index.html" afterPath="$PROJECT_DIR$/../Portfolio/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Portfolio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="82" column="46" lean-forward="true" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
+            <state relative-caret-position="2352">
+              <caret line="147" column="14" lean-forward="true" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -29,6 +35,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>row</find>
+      <find>item</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,6 +58,7 @@
         <option value="$PROJECT_DIR$/../Form-Entreprise/model/bdd.php" />
         <option value="$PROJECT_DIR$/../RSS/model/co_bdd.php" />
         <option value="$PROJECT_DIR$/../RSS/template.php" />
+        <option value="$PROJECT_DIR$/../Portfolio/assets/css/main.css" />
         <option value="$PROJECT_DIR$/../Portfolio/index.html" />
       </list>
     </option>
@@ -147,7 +156,7 @@
       <workItem from="1529347220999" duration="145000" />
       <workItem from="1535490884295" duration="574000" />
       <workItem from="1535491702150" duration="1208000" />
-      <workItem from="1535640800922" duration="6125000" />
+      <workItem from="1535640800922" duration="8639000" />
     </task>
     <task id="LOCAL-00001" summary="Modif Projets">
       <created>1535641679588</created>
@@ -205,22 +214,29 @@
       <option name="project" value="LOCAL" />
       <updated>1535646439242</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="prepare reset">
+      <created>1535647005049</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1535647005049</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14602000" />
+    <option name="totallyTimeSpent" value="17116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47058824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -239,6 +255,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -252,7 +278,8 @@
     <MESSAGE value="Corrections mise en page" />
     <MESSAGE value="essai mise en page" />
     <MESSAGE value="test mise en page" />
-    <option name="LAST_COMMIT_MESSAGE" value="test mise en page" />
+    <MESSAGE value="prepare reset" />
+    <option name="LAST_COMMIT_MESSAGE" value="prepare reset" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -347,18 +374,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Portfolio/assets/css/images/overlay.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Portfolio/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="219" column="8" lean-forward="false" selection-start-line="219" selection-start-column="8" selection-end-line="219" selection-end-column="8" />
+        <state relative-caret-position="311">
+          <caret line="1705" column="23" lean-forward="false" selection-start-line="1705" selection-start-column="23" selection-end-line="1705" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Portfolio/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="82" column="46" lean-forward="true" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
+        <state relative-caret-position="2352">
+          <caret line="147" column="14" lean-forward="true" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
           <folding />
         </state>
       </provider>
