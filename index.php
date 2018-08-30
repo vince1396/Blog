@@ -17,8 +17,7 @@
           <div class="jumbotron">
             <h1>Bienvenue sur mon Blog !</h1>
             <p>
-              Vous trouverez içi tous les derniers articles à propos de tout et n'importe quoi ! N'hésitez pas à lire et à vous inscrire pour laisser des commentaires,
-              sauf si vous êtes issus d'une minorité :)
+              Vous trouverez içi tous les derniers articles à propos de tout et n'importe quoi ! N'hésitez pas à lire et à vous inscrire pour laisser des commentaires.
             </p>
           </div>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
