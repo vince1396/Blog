@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f089791b-1fe5-4017-a143-f4a2522de0fd" name="Default" comment="modif phrase d'intro">
+    <list default="true" id="f089791b-1fe5-4017-a143-f4a2522de0fd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/index.html" afterPath="$PROJECT_DIR$/../Portfolio/index.html" />
+      <change beforePath="$PROJECT_DIR$/../Form-Entreprise/index.php" afterPath="$PROJECT_DIR$/../Form-Entreprise/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,27 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Form-Entreprise/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding>
-                <marker date="1535650143531" expanded="true" signature="1525:1644" ph="SELECT * FRO... article" />
-                <marker date="1535650143531" expanded="true" signature="1739:1820" ph="SELECT * FRO... article" />
-                <marker date="1535650143531" expanded="true" signature="1923:2004" ph="SELECT * FRO... article" />
-                <marker date="1535650143531" expanded="true" signature="2135:2428" ph="..." />
-                <marker date="1535650143531" expanded="false" signature="2387:2394" ph="»" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Portfolio/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="751">
-              <caret line="114" column="40" lean-forward="false" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
+            <state relative-caret-position="464">
+              <caret line="29" column="55" lean-forward="false" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -50,7 +34,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Portfolio" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Form-Entreprise" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +55,7 @@
         <option value="$PROJECT_DIR$/../Portfolio/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/../Portfolio/index.html" />
+        <option value="$PROJECT_DIR$/../Form-Entreprise/index.php" />
       </list>
     </option>
   </component>
@@ -111,11 +96,7 @@
           <expand>
             <path>
               <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Blog" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Form-Entreprise" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -160,7 +141,7 @@
       <workItem from="1529347220999" duration="145000" />
       <workItem from="1535490884295" duration="574000" />
       <workItem from="1535491702150" duration="1208000" />
-      <workItem from="1535640800922" duration="10220000" />
+      <workItem from="1535640800922" duration="10820000" />
     </task>
     <task id="LOCAL-00001" summary="Modif Projets">
       <created>1535641679588</created>
@@ -239,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535650157148</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update links">
+      <created>1535651293074</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1535651293074</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18697000" />
+    <option name="totallyTimeSpent" value="19297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -299,7 +287,8 @@
     <MESSAGE value="prepare reset" />
     <MESSAGE value="Modifications Projets et présentation" />
     <MESSAGE value="modif phrase d'intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="modif phrase d'intro" />
+    <MESSAGE value="update links" />
+    <option name="LAST_COMMIT_MESSAGE" value="update links" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -418,6 +407,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="751">
           <caret line="114" column="40" lean-forward="false" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Form-Entreprise/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="55" lean-forward="false" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
           <folding />
         </state>
       </provider>
